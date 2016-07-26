@@ -8,5 +8,6 @@
   },
   "keywords": [],
   "author": "Victor Bjelkholm <victorbjelkholm@gmail.com> (https://www.github.com/victorbjelkholm)",
-  "license": "MIT"
+  "license": "MIT",
+  "language": "js"
 }
